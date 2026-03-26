@@ -59,6 +59,9 @@ GIS Specialist | Remote Sensing | Python-based Spatial Analysis | Urban Flood Ri
   <a href="https://youtube.com/@gisrs-1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
   </a>
+  <a href="https://www.facebook.com/share/1Dvy1hh51c/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  </a>
 </p>
 
 ---
@@ -66,36 +69,40 @@ GIS Specialist | Remote Sensing | Python-based Spatial Analysis | Urban Flood Ri
 <h3 align="left">Languages & Tools (GIS • Remote Sensing • CAD • Mining):</h3>
 
 <p align="left">
-  <!-- GIS & Mapping -->
-  <img src="[https://commons.wikimedia.org/wiki/File:ArcGIS_globe.png" width="40" title="ArcGIS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/ArcGIS_logo.png" width="40" title="ArcGIS Pro"/>
+  <!-- ESRI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/ArcGIS_globe.png" width="40" title="ArcGIS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/ArcGIS_globe.png" width="40" title="ArcGIS Pro"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/ArcGIS_Online_logo.png" width="40" title="ArcGIS Online"/>
+
+  <!-- GIS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg" width="40" title="QGIS"/>
   <img src="https://www.bluemarblegeo.com/wp-content/uploads/2019/06/global-mapper-icon.png" width="40" title="Global Mapper Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Hexagon_logo.svg" width="40" title="ERDAS IMAGINE"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/GRASS_GIS_logo.svg" width="40" title="GRASS GIS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/SAGA_GIS_logo.png" width="40" title="SAGA GIS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sentinel_logo.svg" width="40" title="SNAP"/>
 
   <!-- Remote Sensing -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Google_Earth_Engine_logo.png" width="40" title="Google Earth Engine"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Earth_icon.svg" width="40" title="Google Earth Pro"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sentinel_logo.svg" width="40" title="SNAP / Sentinel"/>
-  
-  <!-- CAD & Engineering -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/ENVI_logo.png" width="40" title="ENVI"/>
+
+  <!-- CAD & LiDAR -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" width="40" title="AutoCAD"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/MicroStation_logo.png" width="40" title="MicroStation"/>
 
   <!-- Programming & Data -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" title="PostgreSQL/PostGIS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" title="PostgreSQL / PostGIS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" title="MATLAB"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" title="MS Excel"/>
 </p>
 
 <p align="left">
-  <strong>GIS & Mapping:</strong> ArcGIS, ArcGIS Pro, ArcGIS Online, QGIS, Global Mapper Pro, MapInfo, GRASS GIS, SAGA GIS<br>
+  <strong>GIS:</strong> ArcGIS, ArcGIS Pro, ArcGIS Online, QGIS, Global Mapper Pro, MapInfo, GRASS GIS, SAGA GIS<br>
   <strong>Remote Sensing:</strong> ERDAS IMAGINE, ENVI, SNAP, Google Earth Engine, SAR & Optical Analysis<br>
-  <strong>CAD & Engineering:</strong> AutoCAD, MicroStation, TerraSolid (LiDAR)<br>
+  <strong>CAD & LiDAR:</strong> AutoCAD, MicroStation, TerraSolid<br>
   <strong>Mining & Geology:</strong> Mine Planning Concepts, Core Geological Mapping, Sampling Methods, Minex (Learning)<br>
   <strong>Programming & AI:</strong> Python, Deep Learning Methods, PostgreSQL/PostGIS, MySQL, MATLAB, MS Excel
 </p>
