@@ -67,7 +67,7 @@ GIS Specialist | Remote Sensing | Python-based Spatial Analysis | Urban Flood Ri
 
 <p align="left">
   <!-- GIS & Mapping -->
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/9/91/ArcGIS_logo.png](https://share.google/RtM1JuU60zmNhnStA)" width="40" title="ArcGIS"/>
+  <img src="[https://commons.wikimedia.org/wiki/File:ArcGIS_globe.png" width="40" title="ArcGIS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/ArcGIS_logo.png" width="40" title="ArcGIS Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg" width="40" title="QGIS"/>
   <img src="https://www.bluemarblegeo.com/wp-content/uploads/2019/06/global-mapper-icon.png" width="40" title="Global Mapper Pro"/>
